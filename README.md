@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://ibb.co/dfDXtTK" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="ezgif.com-gif-maker (1).gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](https://ezgif.com/).
 

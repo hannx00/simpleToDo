@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="ezgif.com-gif-maker (1).gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](https://ezgif.com/).
+GIF created with [https://ezgif.com/].
 
 ## Notes
 

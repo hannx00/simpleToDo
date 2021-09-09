@@ -34,6 +34,8 @@ GIF created with [https://ezgif.com/].
 
 Describe any challenges encountered while building the app.
 
+The Youtube intstructional videos are a bit difficult to follow because of the new changes in the Android Studio app. It is also heavy and glitchy, so it is inconvenient that I can only work on this on my PC. Overall, the steps and functions make sense, and the implementation is straightforward. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
